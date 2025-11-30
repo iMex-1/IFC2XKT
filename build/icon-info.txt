@@ -1,0 +1,13 @@
+Icon Placeholder
+
+To add custom icons for your Electron app, place the following files in this directory:
+
+- icon.ico (Windows) - 256x256 pixels
+- icon.icns (macOS) - 512x512 pixels  
+- icon.png (Linux) - 512x512 pixels
+
+You can use online tools to convert PNG images to ICO and ICNS formats:
+- https://convertio.co/png-ico/
+- https://cloudconvert.com/png-to-icns
+
+For now, Electron will use the default icon.
